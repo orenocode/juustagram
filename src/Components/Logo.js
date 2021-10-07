@@ -2,7 +2,7 @@ const Logo = () => {
     return (
         <div className="logo">
             <div className="logoImage"></div>
-            <span className="logoName">JUUSTAGRAM</span>
+            <span className="logoName unselectable">JUUSTAGRAM</span>
         </div>
     );
 }
